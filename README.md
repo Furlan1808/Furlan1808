@@ -1,16 +1,16 @@
-## Hi there 👋
+## Seja Bem Vindo ao Meu Perfil 
 
-<!--
-**Furlan1808/Furlan1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bruno Furlan
 
-Here are some ideas to get you started:
+- Eu sou um estudante de Alura
+- Estou aprendendo a mexer na linguagem JavaScript
+- Aqui eu vou usar para organizar projeto que serão desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Caso Voce queira entrar em contato comigo
+
+brunofurlan753@gmail.com
+
+Instagram @Furlan_Bruno1808
+
+
+ 
